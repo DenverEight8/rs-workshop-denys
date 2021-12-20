@@ -1,4 +1,8 @@
 Some text here for our header
+Changes from the <first>
 made some changes 21p.m. made on <master> there were no changes made in first-branch because we didn't merge them.
 some changes to check Rebase functionality
 made another change 21.12 5th try to rebase
+
+
+
