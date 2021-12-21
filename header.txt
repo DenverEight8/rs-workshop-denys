@@ -2,3 +2,4 @@ Some text here for our header
 made some changes 21p.m. made on <master> there were no changes made in first-branch because we didn't merge them.
 some changes to check Rebase functionality
 
+21 Dec 7 p.m. changed text via github veb 
